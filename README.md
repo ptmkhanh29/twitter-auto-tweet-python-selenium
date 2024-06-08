@@ -100,10 +100,15 @@ Mọi người chỉ cần lưu ý 6 chỗ em tô màu xanh là để đi
 <img width="857" alt="image" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/33a8c61a-6a99-46b4-ba8e-7cff4ece8944">
 
 **User name**: điền user name
+
 **Pass word**: điền password
+
 **Start**: *đọc hướng dẫn bên dưới
+
 **End**: *đọc hướng dẫn bên dưới
+
 **Status**: điền `Free` (điền đúng giúp em chữ F viết hoa nha, ree viết thường)
+
 **Verify Phone Number**: chỗ này điền số điện thoại, do trong quá trình code em có bị một chỗ là điền số điện thoại để xác thực, nên em thêm có ô này vào.
 
 **_Hướng dẫn điền start và end_**: 
