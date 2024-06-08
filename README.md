@@ -1,9 +1,29 @@
 # twitter-auto-tweet-python-selenium
 ## Tải tool
-- Đây là folder của em sau khi em tải về máy
-- Trong đó có 2 file em khoanh lại là 2 file cần phải chỉnh sửa để tool có thể tự chạy được.
-  
-<img width="790" alt="11111" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/d1363f5f-f9f7-4548-a7be-cb15e9fa21af">
+
+1. Mọi người click vào như ảnh để tải file .zip 
+
+<img width="1120" alt="down" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/0518c003-ec18-4555-9add-e6dfebfb8a4b">
+
+2. File .zip đã được tải về máy
+
+![image](https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/6bbea5f2-fc76-4ea8-8c28-01a60cdf5712)
+
+3. Giải nén nó giúp em
+
+Click vào Extract
+
+<img width="632" alt="image" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/a040aff2-6c7c-487d-a46f-dea4c0de1816">
+
+Hiện ra cái bảng mọi người cứ để nguyên và tiếp tục click vào Extract
+
+<img width="593" alt="image" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/8e649704-ee80-4613-ad2f-b9c0df7fece1">
+
+4. Đây là folder của em sau khi em giải nén xong
+
+- Trong đó có 1 file em khoanh lại là 1 file cần phải chỉnh sửa để tool có thể tự chạy được.
+- 
+<img width="665" alt="image" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/47e658b5-92bb-465e-bb0d-2251e1acd6e2">
 
 ## Cách sử dụng tool
 
