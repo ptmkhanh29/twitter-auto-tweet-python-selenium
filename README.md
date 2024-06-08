@@ -49,14 +49,14 @@ Hiện ra cái bảng mọi người cứ để nguyên và tiếp tục 
 
 - Anh/chị có thể sửa lại nội dung file này, nó sẽ lấy nội dung trong đây để Tweet
 
-`Auto tweet number %number%
+```python
+Auto tweet number %number%
 
 I am a Vietnamese fan. This is the bot I use to auto tweet trending topics for the "Blank The Series"
 
 #FayeYoko #FayePeraya #YokoApasra #BlankTheSeries |
 
 #THHeadlineXBLANKTheSeriesSS2 #BlankTheSeriesSS2 |
-`
 
 Trong file này lưu ý giúp em 2 chỗ
 
