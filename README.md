@@ -57,6 +57,7 @@ I am a Vietnamese fan. This is the bot I use to auto tweet trending topics for t
 #FayeYoko #FayePeraya #YokoApasra #BlankTheSeries |
 
 #THHeadlineXBLANKTheSeriesSS2 #BlankTheSeriesSS2 |
+```
 
 Trong file này lưu ý giúp em 2 chỗ
 
