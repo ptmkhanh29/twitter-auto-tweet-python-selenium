@@ -5,9 +5,11 @@
   
 <img width="790" alt="11111" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/d1363f5f-f9f7-4548-a7be-cb15e9fa21af">
 
-## Chỉnh sửa file data để có thể chạy được tool
+## Cách sử dụng tool
 
-### 3. Chỉnh sử file `accounts_info.json` để thêm thông tin về account
+### 1. Chỉnh sử file `tweet_content.txt` để điền nội dung cần tag
+
+**_Note_**: Nội dung tweet không được quá 280 kí tự. Em có thêm một tính năng để check nội dung tweet trước khi đăng nhập, nên nếu lớn hơn 280 kí tự thì tool sẽ dừng và thông báo lỗi.
 
 - Đầu tiên mở giúp em Notepad, trong thanh tìm kiếm của Window như ảnh bên dưới
   
@@ -21,9 +23,7 @@
   
 <img width="880" alt="222222" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/401480c8-9f8c-4352-943c-e483090dc6f1">
 
-- Mọi thứ trong thư mục sẽ hiện lên và chọn giúp em file `accounts_info.json`
-
-<img width="812" alt="333333" src="https://github.com/ptmkhanh29/twitter-auto-tweet-python-selenium/assets/113729333/839bb9af-919c-441d-a6d8-6d6dcdff28af">
+- Mọi thứ trong thư mục sẽ hiện lên và chọn giúp em file `tweet_content.txt`
 
 - Nội dung file sẽ hiện lên
 
